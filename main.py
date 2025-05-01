@@ -6,7 +6,7 @@ if __name__ == "__main__":
     #parser.add_argument("filepath", help="Path to the Excel file")
     #args = parser.parse_args()
 
-    excel_file_path = "rpttemp20240129205841.xlsx"  # Update with your Excel file path
+    excel_file_path = "students-file.xlsx"  # Update with your Excel file path
     #excel = ExcelHandler(args.filepath)
     excel = ExcelHandler(excel_file_path)
 
